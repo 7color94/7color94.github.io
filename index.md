@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: page
+comments: yes
 ---
 
 Hello, I'm 7color.
