@@ -1,0 +1,5 @@
+markdown: kramdown
+permalink: /:year/:month/:title/
+author: 7color
+url: /blog
+highlighter: rouge
