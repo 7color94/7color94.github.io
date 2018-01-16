@@ -7,6 +7,7 @@ comments: yes
 ### Machine Learning
 
 - [PCA的数学原理](http://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=2652551576&idx=1&sn=17a125bb29001b3d8d5e3964dcc599a3&chksm=8b7e48c3bc09c1d55dbab168011cba2a853af5623a24a499a2ae110a4facb07c2a4bd033da36&scene=0#rd)
+- [L1, L2 loss function and regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization)
 
 ### Algorithms
 
