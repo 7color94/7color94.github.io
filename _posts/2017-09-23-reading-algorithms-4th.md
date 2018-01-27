@@ -11,7 +11,7 @@ categories:
 
 - 二分查找
 
-```
+```c++
 int binary_search(vector<int> arr, int key) {
     int lo = 0, hi = arr.size() - 1;
     while (lo <= hi) {
@@ -21,6 +21,34 @@ int binary_search(vector<int> arr, int key) {
         else return mid;
     }
     return -1;
+}
+```
+
+lower_bound：寻找有序数组中第一个大于等于target的元素索引
+
+```c++
+int bs_lower_bound(vector<int>& nums, int target) {
+    int lo = 0, high = nums.size() - 1, mid;
+    while (lo <= high) {
+        mid = lo + (high - lo) / 2;
+        if (nums[mid] < target) lo = mid + 1;
+        else high = mid - 1;
+    }
+    return lo;
+}
+```
+
+upper_bound：寻找有序数组中第一个大于target的元素索引
+
+```c++
+int bs_upper_bound(vector<int>& nums, int target) {
+    int lo = 0, high = nums.size() - 1, mid;
+    while (lo <= high) {
+        mid = lo + (high - lo) / 2;
+        if (nums[mid] <= target) lo = mid + 1;
+        else high = mid - 1;
+    }
+    return lo;
 }
 ```
 
