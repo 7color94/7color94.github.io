@@ -165,10 +165,11 @@ def heap_select(A, lens):
     for j in xrange((lens+1)/2, lens):
         top = heapq.heappop(h)
         if A[j] <= top:
+            heapq.heappush(h, top)
             continue
         else:
             heapq.heappush(h, A[j])
-    return top
+    return heapq.heappop(h)
 
 if __name__ == '__main__':
     A = [4,5,1,3,2]
