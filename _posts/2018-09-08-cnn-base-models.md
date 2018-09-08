@@ -41,7 +41,7 @@ VGG的方法是一层一层地堆conv，继续增加深度会有训练困难、�
 
 #### 4.2 Inception v2
 
-[Batch Normalization](https://arxiv.org/pdf/1502.03167.pdf)
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 
 使用Batch normalization，将每层输入归一化到N(0,1)的高斯分布
 
@@ -61,33 +61,85 @@ VGG的方法是一层一层地堆conv，继续增加深度会有训练困难、�
 
 #### 4.5 Xception
 
-[Xception: Deep Learning with Depthwise Separable Convolutions]()，CVPR 2017 Best Paper
+[Xception: Deep Learning with Depthwise Separable Convolutions]()，CVPR 2017
 
 Xception将分解的思想推到了极致：跨通道的相关性和空间相关性是完全可分离的，最好不要联合映射它们，先pointwise + relu再depthwise + relu（和mobilenet相反）
 
 ### 5.ResNet
 
-[Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)，CVPR 2016
+[Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)，CVPR 2016 Best Paper
 
-提出Residual Learning，两种bottleneck：1.两个3x3xc 2.1x1x(c/4)，3x3x(4/c)，1x1xc
+提出Residual Learning，两种bottleneck：1.3x3xc，3x3xc ; 2.1x1x(c/4)，3x3x(c/4)，1x1xc
+
+[Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf)，ECCV 2016
+
+做实验探索residual bottlneck里面是conv，bn，relu还是bn，relu，conv，实验效果后者好，但是一般我还是用前者，TF和Pytorch放出来的Imagenet pretrained model基本都是前者
 
 ### 6.DenseNet
 
 [Densely Connected Convolutional Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)，CVPR 2017
 
-
+DenseNet将residual connection思想推到极致，每一层输出都直连到后面的所有层，可以更好地复用特征，每一层都比较浅，融合了来自前面所有层的所有特征，很容易训练。缺点是显存占用更大并且反向传播计算更复杂一点
 
 ### 7.ResNeXt
 
-[Aggregated Residual Transformations for Deep Neural Networks]()
+[Aggregated Residual Transformations for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)
 
-### 8.Dual Path Networks
+借鉴了Inception加宽的思想，使用分组卷积，所以计算量减少，bottleneck的维度可以适当增加，效果提升：1x1x(c/2)，3x3x(c/2)，1x1xc
 
-### 8.Wide Residual Networks
+### 8.DPN
 
-### 8.MobileNet
+[Dual Path Networks](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)，NIPS 2017
 
-### 9.ShuffleNet
+把ResNeXt（feature re-usage）和DenseNet（new features exploration）合并，
+
+### 9.WRN
+
+[Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf)，BMVC 2017
+
+把ResNet变宽：增加output channel的数量来使模型变得更wider，深度可以不用太深了
+
+### 10.SENet
+
+[Squeeze-and-Excitation Networks](https://www.robots.ox.ac.uk/~vgg/publications/2018/Hu18/hu18.pdf)，CVPR 2018
+
+Feature map的channel-wise attention
+
+### 11.NASNet
+
+[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
+
+Google的AutoML
+
+### 12.MobileNet
+
+#### 12.1 MobileNet v1
+
+[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)，CVPR 2017
+
+用depth wise conv + point wise conv替代标准conv，减少计算量
+
+#### 12.2 MobileNet v2
+
+[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)，arXiv 2018
+
+基于bottleneck仍然采用ResNet的1x1 conv，3x3 depth wise conv，1x1 conv，但是ResNet是两头胖中间瘦，mobilenet v2提出Inverted Residuals and Linear Bottleneck（ResNet 像漏斗，MobileNet v2 像柳叶）
+
+paper还提出relu只适合用于维度多的feature map的激活，所以去掉了最后1x1 conv后的relu
+
+### 13.ShuffleNet
+
+#### 13.1 ShuffleNet v1
+
+[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0642.pdf)，CVPR 2018
+
+进一步用group conv + channel wise替代mobilenet中的point wise conv
+
+#### 13.2 ShuffleNet v2
+
+[ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)，ECCV 2018
+
+
 
 ### References
 
