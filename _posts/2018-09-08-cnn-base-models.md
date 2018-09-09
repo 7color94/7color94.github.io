@@ -139,7 +139,7 @@ paper还提出relu只适合用于维度多的feature map的激活，所以去掉
 
 [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)，ECCV 2018
 
-#### 14.Analysis
+### 14.Analysis
 
 [An Analysis Of Deep Neural Network Models For Practical Applications](https://arxiv.org/pdf/1605.07678.pdf)
 
