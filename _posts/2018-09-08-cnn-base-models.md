@@ -91,7 +91,7 @@ DenseNet将residual connection思想推到极致，每一层输出都直连到�
 
 [Dual Path Networks](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)，NIPS 2017
 
-把ResNeXt（feature re-usage）和DenseNet（new features exploration）合并，
+把ResNeXt（feature re-usage）和DenseNet（new features exploration）合并
 
 ### 9.WRN
 
@@ -139,7 +139,11 @@ paper还提出relu只适合用于维度多的feature map的激活，所以去掉
 
 [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)，ECCV 2018
 
+#### Analysis
 
+[An Analysis Of Deep Neural Network Models For Practical Applications](https://arxiv.org/pdf/1605.07678.pdf)
+
+从paper的Figure. 2可以看出，比较划算的是Inception、Resnet系列
 
 ### References
 
