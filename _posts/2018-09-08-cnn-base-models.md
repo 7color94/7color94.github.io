@@ -123,9 +123,7 @@ Google的AutoML
 
 [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)，arXiv 2018
 
-基于bottleneck仍然采用ResNet的1x1 conv，3x3 depth wise conv，1x1 conv，但是ResNet是两头胖中间瘦，mobilenet v2提出Inverted Residuals and Linear Bottleneck（ResNet 像漏斗，MobileNet v2 像柳叶）
-
-paper还提出relu只适合用于维度多的feature map的激活，所以去掉了最后1x1 conv后的relu
+Paper在探索这样的问题：如何把residual bottleneck应用到mobile net v1？一种改进是通过先扩张在收缩的方式，让depth wise conv提取的特征更丰富些，还有就是在和indentify mapping元素相加时去掉了relu，因为paper做实验证明relu只适合用于维度多的feature map的激活。具体可以阅读：[mobilenet v2解读](https://blog.csdn.net/u011995719/article/details/79135818)
 
 ### 13.ShuffleNet
 
@@ -149,3 +147,4 @@ paper还提出relu只适合用于维度多的feature map的激活，所以去掉
 
 - [从LeNet到SENet——卷积神经网络回顾](https://www.leiphone.com/news/201802/31oWxcSnayBIUJhE.html)
 - [lec01_cnn_architectures.pdf](http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf)
+- [mobilenet v2解读](https://blog.csdn.net/u011995719/article/details/79135818)
