@@ -13,7 +13,7 @@ tags:
 
 1.需要使用额外数据（+0.7 ~ 1.0 AP）：AI Challenge。我们使用方法不对，用AI Challenge去pre-train再在COCO上finetune，指标没有提升，也不知道什么原因。
 
-2.需要集成更多的backbone：Resnet-101，Resnet-152，Resnext-152，Se-ResNeXt101，ResNet101-dilation等等。其他队基本都集成了4-5个，我们只集成了Resnet-101和152这两个。原因是我们太过于相信Large Batch，训练时使用了Sync-BN导致训练很慢，然后像SENet-154、Resnext-101都得很久才能训完，然后就放弃了。还有就是深的backbone没train好，还不知道什么原因。还有就是因为有49w的bounding box，当时集成2个backbone都跑了半天，集成>=4的backbone的时候肯定太耗时间了，主要就是拼机器数量了。
+2.需要集成更多的backbone：Resnet-101，Resnet-152，Resnext-152，Se-ResNeXt101，ResNet101-dilation等等。其他队集成了4-5个，我们集成了Resnet-101和152这两个。原因是我们太过于相信Large Batch，训练时使用了Sync-BN导致训练很慢，然后像SENet-154、Resnext-101都得很久才能训完，然后就放弃了。还有就是深的backbone没train好，还不知道什么原因。还有就是因为有49w的bounding box，当时集成2个backbone都跑了半天，集成>=4的backbone的时候肯定太耗时间了，主要就是拼机器数量了。
 
 3.Inference Trick：我们在inference的时候用了Flip，Rotation，还有[The Sea Monsters]提出的Multi-Scale inference，这个影响应该不会太大。
 
