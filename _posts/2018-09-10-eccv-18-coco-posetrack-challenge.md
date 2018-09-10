@@ -19,7 +19,7 @@ tags:
 
 4.需要集成更多的human detector：虽然没有像MegDet性能那么好的detector，我们后来想了下，应该可以通过集成多个human detector提升性能。
 
-所以这次拿了并列第5，主要是经验不足，炼丹水平不够：额外数据的正确使用；以及深的backbone的正确训练；>=4以上backbone的集成。
+所以这次拿了并列第5，经验不足，炼丹水平不足
 
 ### ECCV-18 PoseTrack Challenge
 
