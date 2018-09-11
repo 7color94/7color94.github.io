@@ -123,7 +123,7 @@ Google的AutoML
 
 [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)，arXiv 2018
 
-Paper在探索这样的问题：如何把residual bottleneck应用到mobile net v1？一种改进是通过先扩张在收缩的方式，让depth wise conv提取的特征更丰富些，还有就是在和indentify mapping元素相加时去掉了relu，因为paper做实验证明relu只适合用于维度多的feature map的激活。具体可以阅读：[mobilenet v2解读](https://blog.csdn.net/u011995719/article/details/79135818)
+Paper在探索这样的问题：如何把residual bottleneck应用到mobile net v1？一种改进是通过先扩张在收缩的方式，让depth wise conv提取的特征更丰富些，还有就是在和indentify mapping元素相加时去掉了relu，因为paper做实验证明relu只适合用于维度多的feature map的激活
 
 ### 13.ShuffleNet
 
@@ -137,6 +137,15 @@ Paper在探索这样的问题：如何把residual bottleneck应用到mobile net 
 
 [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)，ECCV 2018
 
+Paper指出FLOPs并不能完全衡量模型速度，并给出4个实验结论：
+
+- 卷积层的输入和输出特征通道数相等时memory access cost最小，模型速度最快
+- 过多的group操作会增大MAC，从而使模型速度变慢
+- 模型中的分支数量越少，模型速度越快
+- element-wise操作所带来的时间消耗远比在FLOPs上的体现的数值要多，因此要尽可能减少element-wise操作
+
+然后根据上述4个规则重新设计了shuffle net v2结构
+
 ### 14.Analysis
 
 [An Analysis Of Deep Neural Network Models For Practical Applications](https://arxiv.org/pdf/1605.07678.pdf)
@@ -148,3 +157,4 @@ Paper在探索这样的问题：如何把residual bottleneck应用到mobile net 
 - [从LeNet到SENet——卷积神经网络回顾](https://www.leiphone.com/news/201802/31oWxcSnayBIUJhE.html)
 - [lec01_cnn_architectures.pdf](http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf)
 - [mobilenet v2解读](https://blog.csdn.net/u011995719/article/details/79135818)
+- [shufflenet v2解读](https://blog.csdn.net/u014380165/article/details/81322175)
