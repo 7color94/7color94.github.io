@@ -61,7 +61,7 @@ VGG的方法是一层一层地堆conv，继续增加深度会有训练困难、�
 
 #### 4.5 Xception
 
-[Xception: Deep Learning with Depthwise Separable Convolutions]()，CVPR 2017
+[Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)，CVPR 2017
 
 Xception将分解的思想推到了极致：跨通道的相关性和空间相关性是完全可分离的，最好不要联合映射它们，先pointwise + relu再depthwise + relu（和mobilenet相反）
 
