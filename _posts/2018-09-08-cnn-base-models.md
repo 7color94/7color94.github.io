@@ -41,7 +41,7 @@ VGG的方法是一层一层地堆conv，继续增加深度会有训练困难、�
 
 #### 4.2 Inception v2
 
-[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)，arXiv 2015
 
 使用Batch normalization，将每层输入归一化到N(0,1)的高斯分布
 
@@ -83,7 +83,7 @@ DenseNet将residual connection思想推到极致，每一层输出都直连到�
 
 ### 7.ResNeXt
 
-[Aggregated Residual Transformations for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)
+[Aggregated Residual Transformations for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)，CVPR 2017
 
 借鉴了Inception加宽的思想，使用分组卷积，所以计算量减少，bottleneck的维度可以适当增加，效果提升：1x1x(c/2)，3x3x(c/2)，1x1xc
 
@@ -107,7 +107,7 @@ Feature map的channel-wise attention
 
 ### 11.NASNet
 
-[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
+[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)，arXiv 2017
 
 Google的AutoML
 
