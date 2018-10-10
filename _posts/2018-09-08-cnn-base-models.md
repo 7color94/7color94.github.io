@@ -4,7 +4,7 @@ title: CNN Base Models
 categories:
 - Research
 tags:
-- cnn, deep learning
+- cnn
 ---
 
 ### 1.LeNet
