@@ -107,8 +107,8 @@ int aux[1000]; // 归并所需的辅助数组
 // 将a[lo..mid] 和 a[mid+1..hi] 归并
 void merge(int lo, int mid, int hi) {
     int i = lo, j = mid + 1;
-    for (int k = lo; k < hi; k++) aux[k] = a[k];
-    while (int k = lo; k < hi; k++) {
+    for (int k = lo; k <= hi; k++) aux[k] = a[k];
+    while (int k = lo; k <= hi; k++) {
         if (i > mid) a[k++] = aux[j++];
         else if (j > hi) a[k++] = aux[i++];
         else if (aux[i] < aux[j]) a[k++] = aux[i++];
