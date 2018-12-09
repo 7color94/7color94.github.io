@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECCV-18 COCO and PoseTrack Challenge总结
+title: ECCV-18 COCO and PoseTrack Challenge
 categories:
 - Research
 tags:
