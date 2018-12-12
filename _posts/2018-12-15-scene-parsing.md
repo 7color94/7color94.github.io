@@ -7,15 +7,13 @@ tags:
 - scene parsing
 ---
 
-Scene Parsing（场景解析）/Semantic Segmentation（语义分割）也是计算机视觉研究的热点。
-
-还有一个研究方向是Instance Segmentation（实例分割），[它们不一样](https://www.zhihu.com/question/51704852/answer/127120264)。
-
-下面简单记录scene parsing/semantic segmentation的相关工作。
+Scene Parsing（场景解析）/Semantic Segmentation（语义分割）也是计算机视觉研究的热点。还有一个研究方向是Instance Segmentation（实例分割），[它们不一样](https://www.zhihu.com/question/51704852/answer/127120264)。下面简单记录scene parsing/semantic segmentation的相关工作。
 
 ### 1.FCN
 
-[Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)，ICCV 2015
+[Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)，CVPR 2015 Best Paper
+
+第一篇将传统分类网络Alxnet、VGG卷积化（全连接层换成卷积层，保持输出是二维的map）并运用到spatially dense prediction tasks，而且已经开始使用skip layer去融合low-level和high-level的feature maps。
 
 ### 2.PSPNet
 
