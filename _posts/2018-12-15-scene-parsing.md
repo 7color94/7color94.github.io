@@ -15,9 +15,13 @@ Scene Parsing（场景解析）/Semantic Segmentation（语义分割）也是计
 
 第一篇将传统分类网络Alxnet、VGG卷积化（全连接层换成卷积层，保持输出是二维的map）并运用到spatially dense prediction tasks，而且已经开始使用skip layer去融合low-level和high-level的feature maps。
 
+**TODO：ouput是input的1/8？？？**
+
 ### 2.PSPNet
 
 [Pyramid Scene Parsing Network](https://arxiv.org/pdf/1612.01105.pdf)，CVPR 2017
+
+Paper出发点是如何提取有效的global context information，提出了Pyramid Pooling Module，对dilated-ResNet最后一层的feature map（input image的1/8）应用不同尺寸的pooling operation得到4个不同level的pooling feature maps，concat在一起，过一层conv得到分割map。
 
 ### 3.DeepLab
 
