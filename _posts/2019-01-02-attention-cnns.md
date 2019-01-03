@@ -38,3 +38,13 @@ tags:
 最先有Non-Local思想应该是Attention Is All You Need：
 
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)，NIPS 2017
+
+### 4.PAN
+
+[Pyramid Attention Network for Semantic Segmentation](https://arxiv.org/pdf/1805.10180.pdf)
+
+*“Furthermore, high-level features with abundant category information can be used to weight
+low-level information to select precise resolution details.”*
+
+*“Our Global Attention Upsample module performs global average pooling to provide
+global context as a guidance of low-level features to select category localization details.”*
