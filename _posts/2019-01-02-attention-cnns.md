@@ -41,7 +41,7 @@ tags:
 
 ### 4.PAN
 
-[Pyramid Attention Network for Semantic Segmentation](https://arxiv.org/pdf/1805.10180.pdf)
+[Pyramid Attention Network for Semantic Segmentation](https://arxiv.org/pdf/1805.10180.pdf)，BMVC 2018
 
 *“Furthermore, high-level features with abundant category information can be used to weight
 low-level information to select precise resolution details.”*
