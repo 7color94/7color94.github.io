@@ -13,7 +13,7 @@ comments: no
 #### Workshops
 
 - Multi-Person Pose Estimation for Pose Tracking with Enhanced Cascaded Pyramid Network <br>
-Dongdong Yu\*, Kai Su\*, Jia Sun, and Changhu Wang <br>
+Dongdong Yu\*, **Kai Su\***, Jia Sun, and Changhu Wang <br>
 *ECCV PoseTrack Workshop*, 2018. <br>
 (\* indicates equal contribution.)
 
