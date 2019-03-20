@@ -17,11 +17,11 @@ In: *Proceedings of IEEE International Conference on Computer Vision and Pattern
 **Kai Su** and Xin Geng <br>
 In: *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)*, Honolulu, Hawaii, 2019.
 
-#### Workshops
-
 - Multi-Person Pose Estimation for Pose Tracking with Enhanced Cascaded Pyramid Network <br>
 Dongdong Yu\*, **Kai Su\***, Jia Sun, and Changhu Wang <br>
 *ECCV PoseTrack Workshop*, 2018. <br>
 (\* indicates equal contribution.)
 
 ### Competitions
+
+- 
