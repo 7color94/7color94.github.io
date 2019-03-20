@@ -20,22 +20,22 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 
 ### Competitions
 
-- <b>5th</b> place in the Multi-Person Pose Estimation of the PoseTrack Challenge. <br>
-ECCV PoseTrack Workshop 2018 <br>
+- <b>5th</b> place in the Multi-Person Pose Estimation of the PoseTrack Challenge <br>
+<i>ECCV PoseTrack Workshop</i>, 2018. <br>
 [Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html)
-- <b>3rd</b> place in the Multi-Person Pose Tracking of the PoseTrack Challenge. <br>
-ECCV PoseTrack Workshop 2018 <br>
+- <b>3rd</b> place in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
+<i>ECCV PoseTrack Workshop</i>, 2018. <br>
 [Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html)
-- <b>5th</b> place in the COCO Keypoint Detection of the COCO + Mapillary Joint Challenge. <br>
-ECCV COCO Workshop 2018 <br>
+- <b>5th</b> place in the COCO Keypoint Detection of the COCO + Mapillary Joint Challenge <br>
+<i>ECCV COCO Workshop</i>, 2018. <br>
 [Team ByteDance-SEU](http://cocodataset.org/#keypoints-leaderboard)
 - <b>2nd</b> place in the Single-Person Human Pose Estimation Track of the Visual Understanding of Humans
-in Crowd Scene and the 2nd Look Into Person (LIP) Challenge. <br>
-CVPR LIP Workshop 2018 <br>
+in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
+<i>CVPR LIP Workshop</i>, 2018. <br>
 [Team ByteDance-SEU-Baseline](http://sysu-hcp.net/lip/pose_lb.php?type=2)
 - <b>7th/620</b> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017.
 [Team palm](https://www.biendata.com/competition/UAI/final-leaderboard/)
 
 ### Links
 
-[Dongdong Yu](https://miracle-fmh.github.io/)(ByteDance), [Xin Geng](http://palm.seu.edu.cn/xgeng/)(SEU), [Changhu Wang](http://chw.azurewebsites.net/)(ByteDance)
+[Dongdong Yu](https://miracle-fmh.github.io/) (ByteDance), [Xin Geng](http://palm.seu.edu.cn/xgeng/) (SEU), [Changhu Wang](http://chw.azurewebsites.net/) (ByteDance)
