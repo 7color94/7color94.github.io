@@ -12,8 +12,9 @@ comments: no
 
 #### Workshops
 
-- Dongdong Yu*, Kai Su*, Jia Sun, and Changhu Wang, Multi-Person Pose Estimation for Pose
-Tracking with Enhanced Cascaded Pyramid Network, European Conference on Computer Vision
-Workshop (ECCV Workshop), 2018. * means Equal Contribution.
+- Multi-Person Pose Estimation for Pose Tracking with Enhanced Cascaded Pyramid Network <br>
+Dongdong Yu\*, Kai Su\*, Jia Sun, and Changhu Wang <br>
+*ECCV PoseTrack Workshop*, 2018. <br>
+(\* indicates equal contribution.)
 
 ### Competitions
