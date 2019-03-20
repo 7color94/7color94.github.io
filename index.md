@@ -1,13 +1,13 @@
 ---
 title: Home
 layout: page
-comments: yes
+comments: no
 ---
 
-Hello, I'm 7color.
+### Publications
 
-A programmer.
+#### Conferences
 
-[[Douban](https://www.douban.com/people/81024152/)] [[Github](https://github.com/7color94)] [[Weibo](https://weibo.com/2902370675)] [[Instagram](https://www.instagram.com/7color94/)]
+#### Workshops
 
-Email: sukai94.gm@gmail.com
+### Competitions
