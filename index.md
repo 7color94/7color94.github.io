@@ -32,7 +32,7 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 <i>CVPR LIP Workshop</i>, 2018. <br>
 [Team ByteDance-SEU-Baseline](http://sysu-hcp.net/lip/pose_lb.php?type=2)
-- <b>7th/620</b> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017.
+- <b>7th/620</b> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017. <br>
 [Team palm](https://www.biendata.com/competition/UAI/final-leaderboard/)
 
 ### Links
