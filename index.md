@@ -4,6 +4,8 @@ layout: page
 comments: no
 ---
 
+I am a M.S. student at [PALM Group](http://palm.seu.edu.cn) at Southeast University, advised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/).
+
 [[Douban](https://www.douban.com/people/81024152/)] [[Github](https://github.com/7color94)] [[Weibo](https://weibo.com/2902370675)] [[Instagram](https://www.instagram.com/7color94/)]
 
 ### Publications
