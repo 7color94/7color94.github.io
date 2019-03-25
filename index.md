@@ -20,7 +20,8 @@ In: <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (<b>AA
 - <b>Multi-Person Pose Estimation for Pose Tracking with Enhanced Cascaded Pyramid Network</b> <br>
 Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br>
 <i>ECCV PoseTrack Workshop</i>, 2018. <br>
-(&dagger; indicates equal contribution.)
+(&dagger; indicates equal contribution.) <br>
+[PDF](http://openaccess.thecvf.com/content_eccv_2018_workshops/w9/html/Yu_Multi-Person_Pose_Estimation_for_Pose_Tracking_with_Enhanced_Cascaded_Pyramid_ECCVW_2018_paper.html)
 
 ### Competitions
 
