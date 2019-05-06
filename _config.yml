@@ -1,5 +1,5 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
-author: 7color
+author: Kai Su
 url: https://7color94.github.io
 highlighter: rouge

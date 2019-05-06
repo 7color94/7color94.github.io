@@ -1,12 +1,10 @@
 ---
-title: Kai Su
+title: Homepage
 layout: page
 comments: no
 ---
 
 I am a M.Sc. student at [PALM](http://palm.seu.edu.cn) group in Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/).
-
-[[Douban](https://www.douban.com/people/81024152/)] [[Github](https://github.com/7color94)] [[Weibo](https://weibo.com/2902370675)] [[Instagram](https://www.instagram.com/7color94/)]
 
 ### Publications
 
@@ -25,19 +23,23 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 
 ### Competitions
 
-- <b>3rd</b> place in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
+- <u><b>3rd</b></u> place in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
 <i>ECCV PoseTrack Workshop</i>, 2018. <br>
 [Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html)
-- <b>5th</b> place in the COCO Keypoint Detection of the COCO + Mapillary Joint Challenge <br>
+- <u><b>5th</b></u> place in the COCO Keypoint Detection of the COCO + Mapillary Joint Challenge <br>
 <i>ECCV COCO Workshop</i>, 2018. <br>
 [Team ByteDance-SEU](http://cocodataset.org/#keypoints-leaderboard)
-- <b>2nd</b> place in the Single-Person Human Pose Estimation Track of the Visual Understanding of Humans
+- <u><b>2nd</b></u> place in the Single-Person Human Pose Estimation Track of the Visual Understanding of Humans
 in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 <i>CVPR LIP Workshop</i>, 2018. <br>
 [Team ByteDance-SEU-Baseline](http://sysu-hcp.net/lip/pose_lb.php?type=2)
-- <b>7th/620</b> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017. <br>
+- <u><b>7th/620</b></u> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017. <br>
 [Team palm](https://www.biendata.com/competition/UAI/final-leaderboard/)
 
 ### Links
 
 [Dongdong Yu](https://miracle-fmh.github.io/) (ByteDance), [Xin Geng](http://palm.seu.edu.cn/xgeng/) (SEU), [Changhu Wang](http://chw.azurewebsites.net/) (ByteDance)
+
+### Find Me
+
+[[Douban](https://www.douban.com/people/81024152/)] [[Github](https://github.com/7color94)] [[Weibo](https://weibo.com/2902370675)] [[Instagram](https://www.instagram.com/7color94/)]
