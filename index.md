@@ -7,6 +7,7 @@ comments: no
 I am a M.Sc. student at [PALM](http://palm.seu.edu.cn) group in Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/).
 
 ### Publications
+<hr>
 
 - <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
@@ -21,7 +22,8 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 (&dagger; indicates equal contribution.) <br>
 [[PDF](http://openaccess.thecvf.com/content_eccv_2018_workshops/w9/html/Yu_Multi-Person_Pose_Estimation_for_Pose_Tracking_with_Enhanced_Cascaded_Pyramid_ECCVW_2018_paper.html)]
 
-### Competitions
+### Contests
+<hr>
 
 - <u><b>3rd</b></u> place in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
 <i>ECCV PoseTrack Workshop</i>, 2018. <br>
@@ -36,10 +38,18 @@ in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 - <u><b>7th/620</b></u> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017. <br>
 [Team palm](https://www.biendata.com/competition/UAI/final-leaderboard/)
 
+### Activities
+<hr>
+
+- Emergency Reviewer of [AAAI-19](https://aaai.org/Conferences/AAAI-19/)
+- Volunteer of [PRICAI-18](http://cse.seu.edu.cn/pricai18/tutorials.html)
+
 ### Links
+<hr>
 
 [Dongdong Yu](https://miracle-fmh.github.io/) (ByteDance), [Xin Geng](http://palm.seu.edu.cn/xgeng/) (SEU), [Changhu Wang](http://chw.azurewebsites.net/) (ByteDance)
 
 ### Find Me
+<hr>
 
 [[Douban](https://www.douban.com/people/81024152/)] [[Github](https://github.com/7color94)] [[Weibo](https://weibo.com/2902370675)] [[Instagram](https://www.instagram.com/7color94/)]
