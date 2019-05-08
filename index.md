@@ -39,6 +39,16 @@ in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 - <u><b>7th/620</b></u> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017. <br>
 [Team palm](https://www.biendata.com/competition/UAI/final-leaderboard/)
 
+### Awards & Honors
+
+- AAAI Scholarship ($400), 2019.
+- Bosch Scholarship (¥10,000), 2018.
+- Second-Class Academic Scholarship, 2017.
+- Second Prize of the National Graduate Mathematical Contest in Modeling, Huawei, 2016.
+- Outstanding Graduate Student, 2016.
+- First-Class Academic Scholarship, 2014.
+- Top Academic Scholarship (Top 3%), 2013.
+
 ### Activities
 
 - Emergency Reviewer of [AAAI-19](https://aaai.org/Conferences/AAAI-19/)
