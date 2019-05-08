@@ -37,6 +37,9 @@ in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 - <u><b>7th/620</b></u> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017. <br>
 [Team palm](https://www.biendata.com/competition/UAI/final-leaderboard/)
 
+### <font color="blue">Awards & Honors</font>
+
+
 ### Activities
 <hr>
 - Emergency Reviewer of [AAAI-19](https://aaai.org/Conferences/AAAI-19/)
