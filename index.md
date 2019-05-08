@@ -6,8 +6,8 @@ comments: no
 
 I am a M.Sc. student at [PALM](http://palm.seu.edu.cn) group in Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/).
 
-### Publications
-<hr>
+### <font color="blue">Publications</font>
+---
 
 - <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
@@ -22,8 +22,8 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 (&dagger; indicates equal contribution.) <br>
 [[PDF](http://openaccess.thecvf.com/content_eccv_2018_workshops/w9/html/Yu_Multi-Person_Pose_Estimation_for_Pose_Tracking_with_Enhanced_Cascaded_Pyramid_ECCVW_2018_paper.html)]
 
-### Contests
-<hr>
+### <font color="blue">Contests</font>
+
 - <u><b>3rd</b></u> place in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
 <i>ECCV PoseTrack Workshop</i>, 2018. <br>
 [Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html)
@@ -40,15 +40,15 @@ in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 ### <font color="blue">Awards & Honors</font>
 
 
-### Activities
-<hr>
+### <font color="blue">Activities</font>
+
 - Emergency Reviewer of [AAAI-19](https://aaai.org/Conferences/AAAI-19/)
 - Volunteer of [PRICAI-18](http://cse.seu.edu.cn/pricai18/tutorials.html)
 
-### Links
-<hr>
+### <font color="blue">Links</font>
+
 [Dongdong Yu](https://miracle-fmh.github.io/) (ByteDance), [Xin Geng](http://palm.seu.edu.cn/xgeng/) (SEU), [Changhu Wang](http://chw.azurewebsites.net/) (ByteDance)
 
-### Find Me
-<hr>
+### <font color="blue">Find Me</font>
+
 [[Douban](https://www.douban.com/people/81024152/)] [[Github](https://github.com/7color94)] [[Weibo](https://weibo.com/2902370675)] [[Instagram](https://www.instagram.com/7color94/)]
