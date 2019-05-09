@@ -15,6 +15,7 @@ In: <i>Proceedings of IEEE International Conference on Computer Vision and Patte
 - <b>Soft Facial Landmark Detection by Label Distribution Learning</b> <br>
 <u><b>Kai Su</b></u> and Xin Geng <br>
 In: <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (<b>AAAI 2019</b>)</i>, Honolulu, Hawaii, 2019.
+[[PDF](http://palm.seu.edu.cn/xgeng/files/aaai19b.pdf)]
 - <b>Multi-Person Pose Estimation for Pose Tracking with Enhanced Cascaded Pyramid Network</b> <br>
 Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br>
 <i>ECCV PoseTrack Workshop</i>, 2018. <br>
