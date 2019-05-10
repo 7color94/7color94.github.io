@@ -11,7 +11,8 @@ I am a M.Sc. student at [PALM](http://palm.seu.edu.cn) group in Southeast Univer
 - <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
 In: <i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2019</b>)</i>, Long Beach, CA, 2019. <br>
-(&dagger; indicates equal contribution.)
+(&dagger; indicates equal contribution.) <br>
+[[PDF](https://arxiv.org/abs/1905.03466)]
 - <b>Soft Facial Landmark Detection by Label Distribution Learning</b> <br>
 <u><b>Kai Su</b></u> and Xin Geng <br>
 In: <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (<b>AAAI 2019</b>)</i>, Honolulu, Hawaii, 2019. <br>
@@ -39,21 +40,6 @@ in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 [Team ByteDance-SEU-Baseline](http://sysu-hcp.net/lip/pose_lb.php?type=2)
 - <u><b>7th/620</b></u> place in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017. <br>
 [Team palm](https://www.biendata.com/competition/UAI/final-leaderboard/)
-
-### Awards & Honors
-
-- AAAI Scholarship ($400), 2019.
-- Bosch Scholarship (¥10,000), 2018.
-- Second-Class Academic Scholarship, 2017.
-- Second Prize of the National Graduate Mathematical Contest in Modeling, Huawei, 2016.
-- Outstanding Graduate Student, 2016.
-- First-Class Academic Scholarship, 2014.
-- Top Academic Scholarship (Top 3%), 2013.
-
-### Activities
-
-- Emergency Reviewer of [AAAI-19](https://aaai.org/Conferences/AAAI-19/)
-- Volunteer of [PRICAI-18](http://cse.seu.edu.cn/pricai18/tutorials.html)
 
 ### Links
 
