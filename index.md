@@ -51,4 +51,4 @@ in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 
 ### Find Me
 
-[[Douban](https://www.douban.com/people/81024152/)] [[Github](https://github.com/7color94)] [[Weibo](https://weibo.com/2902370675)] [[Instagram](https://www.instagram.com/7color94/)]
+[[Douban](https://www.douban.com/people/81024152/)] [[Github](https://github.com/7color94)] [[Weibo](https://weibo.com/2902370675)]
