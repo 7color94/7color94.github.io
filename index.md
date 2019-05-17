@@ -6,8 +6,12 @@ comments: no
 
 I am a M.Sc. student at [PALM](http://palm.seu.edu.cn) group in Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/).
 
-### Publications
+### Publications & Preprints
 
+- <b>A Context-and-Spatial Aware Network for Multi-Person Pose Estimation</b> <br>
+Dongdong Yu, <u><b>Kai Su</b></u>, Xin Geng, Changhu Wang <br>
+arXiv preprint, arXiv: 1905.05355, 2019. <br>
+[[PDF](https://arxiv.org/abs/1905.05355)]
 - <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
 In: <i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2019</b>)</i>, Long Beach, CA, 2019. <br>
