@@ -32,8 +32,8 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 - <u><b>3rd</b></u> place in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
 <i>ECCV PoseTrack Workshop</i>, 2018. <br>
 [Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html)
-- <u><b>5th</b></u> place in the Multi-Person Pose Estimation of the PoseTrack Challenge <br>
-<i>ECCV PoseTrack Workshop</i>, 2018. <br>
+<!-- - <u><b>5th</b></u> place in the Multi-Person Pose Estimation of the PoseTrack Challenge <br>
+<i>ECCV PoseTrack Workshop</i>, 2018. <br> -->
 [Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html)
 - <u><b>5th</b></u> place in the COCO Keypoint Detection of the COCO + Mapillary Joint Challenge <br>
 <i>ECCV COCO Workshop</i>, 2018. <br>
