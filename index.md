@@ -29,7 +29,7 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 
 ### Contests
 
-- <u><b>1st (Winner)</b></u> place in the Single-Person Human Pose Estimation Track of the Augmented Human: Human-centric Understanding and 2D/3D Synthesis, and the third Look Into Person (LIP) Challenge <br>
+- <u><b>1st</b> (winner)</u> place in the Single-Person Human Pose Estimation Track of the Augmented Human: Human-centric Understanding and 2D/3D Synthesis, and the third Look Into Person (LIP) Challenge <br>
 <i>CVPR LIP Workshop</i>, 2019. <br>
 <!-- [Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html) -->
 - <u><b>2rd</b></u> place in the Single-Person Human Parsing Track of the Augmented Human: Human-centric Understanding and 2D/3D Synthesis, and the third Look Into Person (LIP) Challenge <br>
