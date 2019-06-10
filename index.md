@@ -4,7 +4,7 @@ layout: page
 comments: no
 ---
 
-I am a M.Sc. student in <a href="http://palm.seu.edu.cn"><font color="blue">PALM Group</font></a> at Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/). My research interests are in computer vision and machine learning.
+I am a M.Sc. student in <a href="http://palm.seu.edu.cn"><font color="blue">PALM Group</font></a> at Southeast University, supervised by Prof. <a href="http://palm.seu.edu.cn/xgeng/"><font color="blue">Xin Geng</font></a>. My research interests are in computer vision and machine learning.
 
 ### Publications & Preprints
 
@@ -16,7 +16,7 @@ arXiv preprint, arXiv: 1905.05355, 2019. <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
 In: <i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2019</b>)</i>, Long Beach, CA, 2019. <br>
 (&dagger; indicates equal contribution.) <br>
-[[PDF](https://arxiv.org/abs/1905.03466)]
+<a href="https://arxiv.org/abs/1905.03466"><font color="blue">PDF</font></a>
 - <b>Soft Facial Landmark Detection by Label Distribution Learning</b> <br>
 <u><b>Kai Su</b></u> and Xin Geng <br>
 In: <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (<b>AAAI 2019</b>)</i>, Honolulu, Hawaii, 2019. <br>
