@@ -1,10 +1,10 @@
 ---
-title: Homepage
+title: Kai Su
 layout: page
 comments: no
 ---
 
-I am a M.Sc. student at [PALM](http://palm.seu.edu.cn) group in Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/).
+I am a M.Sc. student in [PALM Group](http://palm.seu.edu.cn) at Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/). My research interests are in computer vision and machine learning.
 
 ### Publications & Preprints
 
