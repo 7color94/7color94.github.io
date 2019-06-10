@@ -4,7 +4,7 @@ layout: page
 comments: no
 ---
 
-I am a M.Sc. student in <font color="blue">[PALM Group](http://palm.seu.edu.cn)</font> at Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/). My research interests are in computer vision and machine learning.
+I am a M.Sc. student in <a href="http://palm.seu.edu.cn" color="blue">PALM Group</a> at Southeast University, supervised by Prof. [Xin Geng](http://palm.seu.edu.cn/xgeng/). My research interests are in computer vision and machine learning.
 
 ### Publications & Preprints
 
