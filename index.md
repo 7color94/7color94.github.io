@@ -16,7 +16,7 @@ arXiv preprint, arXiv: 1905.05355, 2019. <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
 In: <i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2019</b>)</i>, Long Beach, CA, 2019. <br>
 (&dagger; indicates equal contribution.) <br>
-[<a href="https://arxiv.org/abs/1905.03466"><font color="blue">PDF</font></a>]
+[<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Multi-Person_Pose_Estimation_With_Enhanced_Channel-Wise_and_Spatial_Information_CVPR_2019_paper.pdf"><font color="blue">PDF</font></a>]
 - <b>Soft Facial Landmark Detection by Label Distribution Learning</b> <br>
 <u><b>Kai Su</b></u> and Xin Geng <br>
 In: <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (<b>AAAI 2019</b>)</i>, Honolulu, Hawaii, 2019. <br>
@@ -47,7 +47,7 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 - <b><font color="red">2nd place</font></b> in the Single-Person Human Pose Estimation Track of the Visual Understanding of Humans
 in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 <i>CVPR LIP Workshop</i>, 2018. <br>
-<a href="http://sysu-hcp.net/lip/pose_lb.php?type=2"><font color="blue">Team ByteDance-SEU-Baseline</font></a>
+<a href="http://sysu-hcp.net/lip/pose_lb.php?type=2"><font color="blue">Team ByteDance-SEU-Baseline</font></a>, [<a href="http://sysu-hcp.net/lip/pose_lb.php?type=2"><font color="blue">slides</font></a>]
 - <b><font color="red">7th/620 place</font></b> in the Ucar Artificial Intelligence Cup, Ucar and IEEE Computer Society, 2017. <br>
 <a href="https://www.biendata.com/competition/UAI/final-leaderboard/"><font color="blue">Team palm</font></a>
 
@@ -57,4 +57,4 @@ in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 
 ### Find Me
 
-<a href="https://www.douban.com/people/81024152/"><font color="blue">Douban</font></a>, <a href="https://github.com/7color94"><font color="blue">Github</font></a>, <a href="https://weibo.com/2902370675"><font color="blue">Weibo</font></a>
+[<a href="https://www.douban.com/people/81024152/"><font color="blue">Douban</font></a>], [<a href="https://github.com/7color94"><font color="blue">Github</font></a>], [<a href="https://weibo.com/2902370675"><font color="blue">Weibo</font></a>]
