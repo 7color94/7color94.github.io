@@ -48,7 +48,7 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 <i>CVPR LIP Workshop</i>, 2018 <br>
 <a href="http://sysu-hcp.net/lip/pose_lb.php?type=2"><font color="blue">Team ByteDance-SEU-Baseline</font></a>, [<a href="https://7color94.github.io/files/CVPR-18%20LIP.pdf"><font color="blue">slides</font></a>]
 - <b><font color="red">7th/620 place</font></b> in the Ucar Artificial Intelligence Cup <br>
-<i>Ucar and IEEE Computer Society, 2017</i>
+<i>Ucar and IEEE Computer Society, 2017</i> <br>
 <a href="https://www.biendata.com/competition/UAI/final-leaderboard/"><font color="blue">Team palm</font></a>
 - <b><font color="red">Second Prize</font></b> of the National Graduate Mathematical Contest in Modeling <br>
 <i>Huawei, 2016</i>
