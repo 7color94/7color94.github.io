@@ -14,12 +14,12 @@ arXiv preprint, arXiv: 1905.05355, 2019. <br>
 [<a href="https://arxiv.org/abs/1905.05355"><font color="blue">PDF</font></a>]
 - <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
-<i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2019</b>), Long Beach, CA, 2019. <br>
+<i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), Long Beach, CA, 2019. <br>
 (&dagger; indicates equal contribution.) <br>
 [<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Multi-Person_Pose_Estimation_With_Enhanced_Channel-Wise_and_Spatial_Information_CVPR_2019_paper.pdf"><font color="blue">PDF</font></a>]
 - <b>Soft Facial Landmark Detection by Label Distribution Learning</b> <br>
 <u><b>Kai Su</b></u> and Xin Geng <br>
-<i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2019</b>), Honolulu, Hawaii, 2019. <br>
+<i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), Honolulu, Hawaii, 2019. <br>
 [<a href="http://palm.seu.edu.cn/xgeng/files/aaai19b.pdf"><font color="blue">PDF</font></a>]
 - <b>Multi-Person Pose Estimation for Pose Tracking with Enhanced Cascaded Pyramid Network</b> <br>
 Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br>
