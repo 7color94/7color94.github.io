@@ -7,7 +7,7 @@ comments: no
 I received my M.Sc. degree from <a href="http://palm.seu.edu.cn"><font color="blue">PALM Group</font></a> at Southeast University, supervised by Prof. <a href="http://palm.seu.edu.cn/xgeng/"><font color="blue">Xin Geng</font></a>. My research interests are in computer vision and machine learning.
 
 ### Publications & Preprints
-(&dagger; indicates equal contribution.) <br>
+(&dagger; indicates equal contribution) <br>
 
 - <b>A Context-and-Spatial Aware Network for Multi-Person Pose Estimation</b> <br>
 Dongdong Yu, <u><b>Kai Su</b></u>, Xin Geng, Changhu Wang <br>
