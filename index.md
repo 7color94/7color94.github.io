@@ -7,6 +7,7 @@ comments: no
 I received my M.Sc. degree from <a href="http://palm.seu.edu.cn"><font color="blue">PALM Group</font></a> at Southeast University, supervised by Prof. <a href="http://palm.seu.edu.cn/xgeng/"><font color="blue">Xin Geng</font></a>. My research interests are in computer vision and machine learning.
 
 ### Publications & Preprints
+(&dagger; indicates equal contribution.) <br>
 
 - <b>A Context-and-Spatial Aware Network for Multi-Person Pose Estimation</b> <br>
 Dongdong Yu, <u><b>Kai Su</b></u>, Xin Geng, Changhu Wang <br>
@@ -15,7 +16,6 @@ arXiv preprint, arXiv: 1905.05355, 2019. <br>
 - <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
 <i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), Long Beach, CA, 2019. <br>
-(&dagger; indicates equal contribution.) <br>
 [<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Multi-Person_Pose_Estimation_With_Enhanced_Channel-Wise_and_Spatial_Information_CVPR_2019_paper.pdf"><font color="blue">PDF</font></a>]
 - <b>Soft Facial Landmark Detection by Label Distribution Learning</b> <br>
 <u><b>Kai Su</b></u> and Xin Geng <br>
@@ -24,7 +24,6 @@ arXiv preprint, arXiv: 1905.05355, 2019. <br>
 - <b>Multi-Person Pose Estimation for Pose Tracking with Enhanced Cascaded Pyramid Network</b> <br>
 Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br>
 <i>ECCV PoseTrack Workshop</i>, 2018. <br>
-(&dagger; indicates equal contribution.) <br>
 [<a href="http://openaccess.thecvf.com/content_eccv_2018_workshops/w9/html/Yu_Multi-Person_Pose_Estimation_for_Pose_Tracking_with_Enhanced_Cascaded_Pyramid_ECCVW_2018_paper.html"><font color="blue">PDF</font></a>]
 
 ### Challenges and Awards
