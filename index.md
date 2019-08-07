@@ -49,8 +49,6 @@ Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br
 - <b><font color="red">7th/620 place</font></b> in the Ucar Artificial Intelligence Cup <br>
 <i>Ucar and IEEE Computer Society, 2017</i> <br>
 <a href="https://www.biendata.com/competition/UAI/final-leaderboard/"><font color="blue">Team palm</font></a>
-- <b><font color="red">Second Prize</font></b> of the National Graduate Mathematical Contest in Modeling <br>
-<i>Huawei, 2016</i>
 
 ### Links
 
