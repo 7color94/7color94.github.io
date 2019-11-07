@@ -1,7 +1,7 @@
 ---
 title: Challenges and Awards
 layout: page
-comments: yes
+comments: no
 ---
 
 - <b><font color="red">1st place (Winner)</font></b> in the Single-Person Human Pose Estimation Track of the Augmented Human: Human-centric Understanding and 2D/3D Synthesis, and the third Look Into Person (LIP) Challenge <br>
