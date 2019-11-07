@@ -19,7 +19,7 @@ comments: no
 <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), Honolulu, Hawaii, 2019. <br>
 [<a href="http://palm.seu.edu.cn/xgeng/files/aaai19b.pdf"><font color="blue">PDF</font></a>]
 
-### Workshop
+### Workshops
 
 - <b>Temporal Feature Augmented Network for Video Instance Segmentation</b> <br>
 Minghui Dong, Jian Wang, Yuanyuan Huang, Dongdong Yu, <u><b>Kai Su</b></u>, Kaihui Zhou, Jie Shao, Shiping Wen and Changhu Wang <br>
