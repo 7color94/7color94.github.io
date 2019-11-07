@@ -13,9 +13,9 @@ comments: no
 - <b><font color="red">3rd place</font></b> in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
 <i>ECCV PoseTrack Workshop</i>, 2018 <br>
 <a href="https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html"><font color="blue">Team Miracle</font></a>
-- <u><b>5th</b></u> place in the Multi-Person Pose Estimation of the PoseTrack Challenge <br>
+- <b><font color="red">5th place</font></b> in the Multi-Person Pose Estimation of the PoseTrack Challenge <br>
 <i>ECCV PoseTrack Workshop</i>, 2018. <br>
-<!-- [Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html) -->
+[Team Miracle](https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html)
 - <b><font color="red">5th place</font></b> in the COCO Keypoint Detection of the COCO + Mapillary Joint Challenge <br>
 <i>ECCV COCO Workshop</i>, 2018 <br>
 <a href="http://cocodataset.org/#keypoints-leaderboard"><font color="blue">Team ByteDance-SEU</font></a>
