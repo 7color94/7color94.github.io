@@ -9,7 +9,7 @@ comments: no
 <a href="http://cocodataset.org/#keypoints-leaderboard"><font color="blue">Team ByteDanceVC</font></a>
 - <b><font color="red">5th place</font></b> in the Video Object Segmentation of the 2nd Large-scale Video Object Segmentation Challenge <br>
 <i>ICCV YouTube-VOS Workshop</i>, 2019 <br>
-<a href="https://youtube-vos.org/challenge/2019/leaderboard"><font color="blue">Team youtube_test</font></a>\
+<a href="https://youtube-vos.org/challenge/2019/leaderboard"><font color="blue">Team youtube_test</font></a>
 - <b><font color="red">5th place</font></b> in the Video Instance Segmentation of the 2nd Large-scale Video Object Segmentation Challenge <br>
 <i>ICCV YouTube-VOS Workshop</i>, 2019 <br>
 <a href="https://youtube-vos.org/challenge/2019/leaderboard"><font color="blue">Team mingmingdiii</font></a>
