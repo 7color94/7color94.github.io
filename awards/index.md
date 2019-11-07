@@ -7,6 +7,12 @@ comments: no
 - <b><font color="red">2rd place</font></b> in the COCO Keypoint Detection of the COCO + Mapillary Joint Recognition Challenge <br>
 <i>ICCV COCO Workshop</i>, 2019 <br>
 <a href="http://cocodataset.org/#keypoints-leaderboard"><font color="blue">Team ByteDanceVC</font></a>
+- <b><font color="red">5th place</font></b> in the Video Object Segmentation of the 2nd Large-scale Video Object Segmentation Challenge <br>
+<i>ICCV YouTube-VOS Workshop</i>, 2019 <br>
+<a href="https://youtube-vos.org/challenge/2019/leaderboard"><font color="blue">Team youtube_test</font></a>\
+- <b><font color="red">5th place</font></b> in the Video Instance Segmentation of the 2nd Large-scale Video Object Segmentation Challenge <br>
+<i>ICCV YouTube-VOS Workshop</i>, 2019 <br>
+<a href="https://youtube-vos.org/challenge/2019/leaderboard"><font color="blue">Team mingmingdiii</font></a>
 - <b><font color="red">1st place (Winner)</font></b> in the Single-Person Human Pose Estimation Track of the Augmented Human: Human-centric Understanding and 2D/3D Synthesis, and the third Look Into Person (LIP) Challenge <br>
 <i>CVPR LIP Workshop</i>, 2019 <br>
 <a href="https://vuhcs.github.io"><font color="blue">Team ByteDance-SEU</font></a>, [slides]
