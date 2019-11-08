@@ -4,7 +4,7 @@ layout: page
 comments: no
 ---
 
-- <b><font color="red">2rd place</font></b> in the COCO Keypoint Detection of the COCO + Mapillary Joint Recognition Challenge <br>
+- <b><font color="red">2rd place (Runner-Up)</font></b> in the COCO Keypoint Detection of the COCO + Mapillary Joint Recognition Challenge <br>
 <i>ICCV COCO Workshop</i>, 2019 <br>
 <a href="http://cocodataset.org/#keypoints-leaderboard"><font color="blue">Team ByteDanceVC</font></a>
 - <b><font color="red">5th place</font></b> in the Video Object Segmentation of the 2nd Large-scale Video Object Segmentation Challenge <br>
