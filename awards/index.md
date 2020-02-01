@@ -36,6 +36,9 @@ comments: no
 - <b><font color="red">2nd place (Runner-Up)</font></b> in the Single-Person Human Pose Estimation Track of the Visual Understanding of Humans in Crowd Scene and the 2nd Look Into Person (LIP) Challenge <br>
 <i>CVPR LIP Workshop</i>, 2018 <br>
 <a href="http://sysu-hcp.net/lip/pose_lb.php?type=2"><font color="blue">Team ByteDance-SEU-Baseline</font></a>, [<a href="https://7color94.github.io/files/CVPR-18%20LIP.pdf"><font color="blue">slides</font></a>]
+
+### 2017
+
 - <b><font color="red">7th/620 place</font></b> in the Ucar Artificial Intelligence Cup <br>
 <i>Ucar and IEEE Computer Society, 2017</i> <br>
 <a href="https://www.biendata.com/competition/UAI/final-leaderboard/"><font color="blue">Team palm</font></a>
