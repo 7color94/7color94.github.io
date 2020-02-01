@@ -4,6 +4,8 @@ layout: page
 comments: no
 ---
 
+### 2019
+
 - <b><font color="red">2rd place (Runner-Up)</font></b> in the COCO Keypoint Detection of the COCO + Mapillary Joint Recognition Challenge <br>
 <i>ICCV COCO Workshop</i>, 2019 <br>
 <a href="http://cocodataset.org/#keypoints-leaderboard"><font color="blue">Team ByteDanceVC</font></a>
@@ -18,6 +20,9 @@ comments: no
 <a href="https://vuhcs.github.io"><font color="blue">Team ByteDance-SEU</font></a>, [slides]
 - <b><font color="red">2nd place (Runner-Up)</font></b> in the Single-Person Human Parsing Track of the Augmented Human: Human-centric Understanding and 2D/3D Synthesis, and the third Look Into Person (LIP) Challenge <br>
 <i>CVPR LIP Workshop</i>, 2019 <br>
+
+### 2018
+
 <a href="https://vuhcs.github.io"><font color="blue">Team ByteDance-SEU</font></a>, [slides]
 - <b><font color="red">3rd place</font></b> in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
 <i>ECCV PoseTrack Workshop</i>, 2018 <br>
