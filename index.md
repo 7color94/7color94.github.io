@@ -8,4 +8,4 @@ I received my M.Sc. degree from <a href="http://palm.seu.edu.cn"><font color="bl
 
 ### Links
 
-<a href="https://miracle-fmh.github.io/"><font color="blue">Dongdong Yu</font></a> (ByteDance), <a href="http://palm.seu.edu.cn/xgeng/"><font color="blue">Xin Geng</font></a> (SEU), <a href="http://chw.azurewebsites.net/"><font color="blue">Changhu Wang</font></a> (ByteDance)
+<a href="https://miracle-fmh.github.io/"><font color="blue">Dongdong Yu</font></a> (ByteDance), <a href="http://palm.seu.edu.cn/xgeng/"><font color="blue">Xin Geng</font></a> (Southeast University), <a href="http://chw.azurewebsites.net/"><font color="blue">Changhu Wang</font></a> (ByteDance)
