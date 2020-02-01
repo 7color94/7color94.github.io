@@ -20,10 +20,10 @@ comments: no
 <a href="https://vuhcs.github.io"><font color="blue">Team ByteDance-SEU</font></a>, [slides]
 - <b><font color="red">2nd place (Runner-Up)</font></b> in the Single-Person Human Parsing Track of the Augmented Human: Human-centric Understanding and 2D/3D Synthesis, and the third Look Into Person (LIP) Challenge <br>
 <i>CVPR LIP Workshop</i>, 2019 <br>
+<a href="https://vuhcs.github.io"><font color="blue">Team ByteDance-SEU</font></a>, [slides]
 
 ### 2018
 
-<a href="https://vuhcs.github.io"><font color="blue">Team ByteDance-SEU</font></a>, [slides]
 - <b><font color="red">3rd place</font></b> in the Multi-Person Pose Tracking of the PoseTrack Challenge <br>
 <i>ECCV PoseTrack Workshop</i>, 2018 <br>
 <a href="https://posetrack.net/workshops/eccv2018/posetrack_eccv_2018_results.html"><font color="blue">Team Miracle</font></a>
