@@ -1,5 +1,5 @@
 ---
-title: Challenges and Awards
+title: Challenges
 layout: page
 comments: no
 ---
