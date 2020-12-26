@@ -21,6 +21,10 @@ comments: no
 
 ### Workshops
 
+- <b>Temporal Feature Augmented Network for Video Instance Segmentation</b> <br>
+Minghui Dong, Jian Wang, Yuanyuan Huang, Dongdong Yu, <u><b>Kai Su</b></u>, Kaihui Zhou, Jie Shao, Shiping Wen and Changhu Wang <br>
+<i>Proceedings of the IEEE International Conference on Computer Vision Workshops</i>, 2019. <br>
+[<a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/YouTube-VOS/Dong_Temporal_Feature_Augmented_Network_for_Video_Instance_Segmentation_ICCVW_2019_paper.pdf"><font color="blue">PDF</font></a>]
 - <b>Towards Good Practices for Video Object Segmentation</b> <br>
 Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Hengkai Guo, Jian Wang, Kaihui Zhou, Yuanyuan Huang, Minghui Dong, Jie Shao and Changhu Wang <br>
 <i>Proceedings of the IEEE International Conference on Computer Vision Workshops</i>, 2019. <br>
