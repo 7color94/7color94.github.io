@@ -10,18 +10,18 @@ comments: no
 
 ### Conference Papers
 
-- <b>Weakly Supervised Person Search with Region Siamese Networks</b> <br>
+- <b>Weakly Supervised Person Search with Region Siamese Networks</b> [PDF] <br>
 Chuchu Han, <u><b>Kai Su</b></u>,, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong Sang, Yi Yang, Changhu Wang <br>
 <b>ICCV</b>, 2021. <br>
-[PDF]
-- <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> <br>
+
+- <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> [<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Multi-Person_Pose_Estimation_With_Enhanced_Channel-Wise_and_Spatial_Information_CVPR_2019_paper.pdf"><font color="blue">PDF</font></a>] <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
-<i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), Long Beach, CA, 2019. <br>
-[<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Multi-Person_Pose_Estimation_With_Enhanced_Channel-Wise_and_Spatial_Information_CVPR_2019_paper.pdf"><font color="blue">PDF</font></a>]
-- <b>Soft Facial Landmark Detection by Label Distribution Learning</b> <br>
+<b>CVPR</b>, 2019. <br>
+
+- <b>Soft Facial Landmark Detection by Label Distribution Learning</b> [<a href="http://palm.seu.edu.cn/xgeng/files/aaai19b.pdf"><font color="blue">PDF</font></a>] <br>
 <u><b>Kai Su</b></u> and Xin Geng <br>
-<i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), Honolulu, Hawaii, 2019. <br>
-[<a href="http://palm.seu.edu.cn/xgeng/files/aaai19b.pdf"><font color="blue">PDF</font></a>]
+<b>AAAI</b>, 2019. <br>
+
 
 ### Workshops
 
