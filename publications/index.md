@@ -26,7 +26,6 @@ Chuchu Han, <u><b>Kai Su</b></u>, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong S
 - <b>Towards Good Practices for Video Object Segmentation</b> [<a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/YouTube-VOS/Yu_Towards_Good_Practices_for_Video_Object_Segmentation_ICCVW_2019_paper.pdf"><font color="blue">PDF</font></a>] <br>
 Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Hengkai Guo, Jian Wang, Kaihui Zhou, Yuanyuan Huang, Minghui Dong, Jie Shao and Changhu Wang <br>
 <b>ICCV Workshop</b>, 2019. <br>
-
 - <b>Multi-Person Pose Estimation for Pose Tracking with Enhanced Cascaded Pyramid Network</b> [<a href="http://openaccess.thecvf.com/content_eccv_2018_workshops/w9/html/Yu_Multi-Person_Pose_Estimation_for_Pose_Tracking_with_Enhanced_Cascaded_Pyramid_ECCVW_2018_paper.html"><font color="blue">PDF</font></a>] <br>
 Dongdong Yu&dagger;, <u><b>Kai Su&dagger;</b></u>, Jia Sun, and Changhu Wang <br>
 <b>ECCV Workshop</b>, 2018. <br>
