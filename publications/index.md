@@ -10,6 +10,10 @@ comments: no
 
 ### Conference Papers
 
+- <b>Weakly Supervised Person Search with Region Siamese Networks</b> <br>
+Chuchu Han, <u><b>Kai Su</b></u>,, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong Sang, Yi Yang, Changhu Wang <br>
+<b>ICCV</b>, 2021. <br>
+[PDF]
 - <b>Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information</b> <br>
 <u><b>Kai Su&dagger;</b></u>, Dongdong Yu&dagger;, Zhenqi Xu, Xin Geng, Changhu Wang <br>
 <i>Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), Long Beach, CA, 2019. <br>
