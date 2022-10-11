@@ -11,6 +11,8 @@ comments: no
 ### Conference Papers
 
 - <b>QueryPose: Sparse Multi-Person Pose Regression via Spatial-Aware Part-Level Query</b> [PDF] <br>
+Yabo Xiao, <u><b>Kai Su</b></u>, Xiaojuan Wang, Dongdong Yu, Lei Jin, Mingshu He, Zehuan Yuan <br>
+<b>ICCV</b>, 2021. <br>
 <b>NeurIPS</b>, 2022. <br>
 - <b>Weakly Supervised Person Search with Region Siamese Networks</b> [<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Han_Weakly_Supervised_Person_Search_With_Region_Siamese_Networks_ICCV_2021_paper.html"><font color="blue">PDF</font></a>] <br>
 Chuchu Han, <u><b>Kai Su</b></u>, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong Sang, Yi Yang, Changhu Wang <br>
