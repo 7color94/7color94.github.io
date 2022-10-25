@@ -23,6 +23,12 @@ Chuchu Han, <u><b>Kai Su</b></u>, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong S
 <u><b>Kai Su</b></u> and Xin Geng <br>
 <b>AAAI</b>, 2019. <br>
 
+### Journal Articles
+
+- <b>DMRNet++: Learning Discriminative Features with Decoupled Networks and Enriched Pairs for One-Step Person Search</b> [PDF] <br>
+Chuchu Han, Zhedong Zheng, <u><b>Kai Su</b></u>, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong Sang, Yi Yang <br>
+<b>TPAMI</b>, 2022. <br>
+
 ### Workshops
 
 - <b>Towards Good Practices for Video Object Segmentation</b> [<a href="https://openaccess.thecvf.com/content_ICCVW_2019/html/YouTube-VOS/Yu_Towards_Good_Practices_for_Video_Object_Segmentation_ICCVW_2019_paper.html"><font color="blue">PDF</font></a>] <br>
